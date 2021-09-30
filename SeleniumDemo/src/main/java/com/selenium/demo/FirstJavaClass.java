@@ -4,7 +4,7 @@ public class FirstJavaClass {
 
 	private static String getMyName() {
 
-		return "Java";
+		return "Java1";
 	}
 
 	private static int getSumOfTwoNumber(int i, int j) {
